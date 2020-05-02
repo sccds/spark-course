@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="40c0642d-c98f-43db-b7eb-b2a87deedbdf" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Scala Object" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="$USER_HOME$/apps/maven_repository" />
+        <option name="mavenHome" value="$USER_HOME$/apps/apache-maven-3.5.3" />
+        <option name="userSettingsFile" value="$USER_HOME$/apps/apache-maven-3.5.3/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1a9O5F9HH6tdD5BPmgtNhvUHBqG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.30959302" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="Application.GroupTopN">
+    <configuration name="GroupTopN" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.twq.topn.GroupTopN" />
+      <module name="spark-topn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.twq.topn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PriorityQueueTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.twq.local.PriorityQueueTest" />
+      <module name="spark-topn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.twq.local.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TopN" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.twq.topn.TopN" />
+      <module name="spark-topn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.twq.topn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TopNJava" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.twq.topn.TopNJava" />
+      <module name="spark-topn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.twq.topn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TopNLocal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.twq.local.TopNLocal" />
+      <module name="spark-topn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.twq.local.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.GroupTopN" />
+        <item itemvalue="Application.TopNJava" />
+        <item itemvalue="Application.TopN" />
+        <item itemvalue="Application.TopNLocal" />
+        <item itemvalue="Application.PriorityQueueTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="40c0642d-c98f-43db-b7eb-b2a87deedbdf" name="Default Changelist" comment="" />
+      <created>1586144157290</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586144157290</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="458" y="171" key="#Project_Structure" timestamp="1586571959625">
+      <screen x="0" y="23" width="1680" height="952" />
+    </state>
+    <state x="458" y="171" key="#Project_Structure/0.23.1680.952@0.23.1680.952" timestamp="1586571959625" />
+    <state x="458" y="172" key="#Project_Structure/0.23.1680.954@0.23.1680.954" timestamp="1586144372505" />
+    <state x="458" y="172" key="#Project_Structure/0.23.1680.956@0.23.1680.956" timestamp="1586144726123" />
+    <state x="560" y="264" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1586659283539">
+      <screen x="0" y="23" width="1680" height="952" />
+    </state>
+    <state x="560" y="264" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.23.1680.952@0.23.1680.952" timestamp="1586659283539" />
+    <state x="635" y="208" key="#com.intellij.ide.util.MemberChooser" timestamp="1586653625832">
+      <screen x="0" y="23" width="1680" height="952" />
+    </state>
+    <state x="635" y="207" key="#com.intellij.ide.util.MemberChooser/0.23.1680.949@0.23.1680.949" timestamp="1586610245059" />
+    <state x="635" y="208" key="#com.intellij.ide.util.MemberChooser/0.23.1680.952@0.23.1680.952" timestamp="1586653625832" />
+    <state x="427" y="226" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1586144861021">
+      <screen x="0" y="23" width="1680" height="956" />
+    </state>
+    <state x="427" y="226" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.1680.956@0.23.1680.956" timestamp="1586144861021" />
+    <state x="596" y="279" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog" timestamp="1586144720871">
+      <screen x="0" y="23" width="1680" height="956" />
+    </state>
+    <state x="596" y="279" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/0.23.1680.956@0.23.1680.956" timestamp="1586144720871" />
+    <state width="1602" height="250" key="GridCell.Tab.0.bottom" timestamp="1586689835551">
+      <screen x="0" y="23" width="1680" height="952" />
+    </state>
+    <state width="1602" height="250" key="GridCell.Tab.0.bottom/0.23.1680.949@0.23.1680.949" timestamp="1586610413905" />
+    <state width="1602" height="250" key="GridCell.Tab.0.bottom/0.23.1680.952@0.23.1680.952" timestamp="1586689835551" />
+    <state width="1602" height="250" key="GridCell.Tab.0.bottom/0.23.1680.956@0.23.1680.956" timestamp="1586150935848" />
+    <state width="1602" height="250" key="GridCell.Tab.0.bottom/0.23.1680.958@0.23.1680.958" timestamp="1586224360373" />
+    <state width="1602" height="250" key="GridCell.Tab.0.center" timestamp="1586689835550">
+      <screen x="0" y="23" width="1680" height="952" />
+    </state>
+    <state width="1602" height="250" key="GridCell.Tab.0.center/0.23.1680.949@0.23.1680.949" timestamp="1586610413904" />
+    <state width="1602" height="250" key="GridCell.Tab.0.center/0.23.1680.952@0.23.1680.952" timestamp="1586689835550" />
+    <state width="1602" height="250" key="GridCell.Tab.0.center/0.23.1680.956@0.23.1680.956" timestamp="1586150935847" />
+    <state width="1602" height="250" key="GridCell.Tab.0.center/0.23.1680.958@0.23.1680.958" timestamp="1586224360373" />
+    <state width="1602" height="250" key="GridCell.Tab.0.left" timestamp="1586689835550">
+      <screen x="0" y="23" width="1680" height="952" />
+    </state>
+    <state width="1602" height="250" key="GridCell.Tab.0.left/0.23.1680.949@0.23.1680.949" timestamp="1586610413904" />
+    <state width="1602" height="250" key="GridCell.Tab.0.left/0.23.1680.952@0.23.1680.952" timestamp="1586689835550" />
+    <state width="1602" height="250" key="GridCell.Tab.0.left/0.23.1680.956@0.23.1680.956" timestamp="1586150935847" />
+    <state width="1602" height="250" key="GridCell.Tab.0.left/0.23.1680.958@0.23.1680.958" timestamp="1586224360372" />
+    <state width="1602" height="250" key="GridCell.Tab.0.right" timestamp="1586689835550">
+      <screen x="0" y="23" width="1680" height="952" />
+    </state>
+    <state width="1602" height="250" key="GridCell.Tab.0.right/0.23.1680.949@0.23.1680.949" timestamp="1586610413905" />
+    <state width="1602" height="250" key="GridCell.Tab.0.right/0.23.1680.952@0.23.1680.952" timestamp="1586689835550" />
+    <state width="1602" height="250" key="GridCell.Tab.0.right/0.23.1680.956@0.23.1680.956" timestamp="1586150935848" />
+    <state width="1602" height="250" key="GridCell.Tab.0.right/0.23.1680.958@0.23.1680.958" timestamp="1586224360373" />
+    <state x="499" y="323" key="com.intellij.ide.util.TipDialog" timestamp="1586145258997">
+      <screen x="0" y="23" width="1680" height="956" />
+    </state>
+    <state x="499" y="323" key="com.intellij.ide.util.TipDialog/0.23.1680.956@0.23.1680.956" timestamp="1586145258997" />
+    <state x="487" y="227" width="670" height="674" key="search.everywhere.popup" timestamp="1586652783091">
+      <screen x="0" y="23" width="1680" height="952" />
+    </state>
+    <state x="487" y="227" width="670" height="674" key="search.everywhere.popup/0.23.1680.952@0.23.1680.952" timestamp="1586652783091" />
+    <state x="487" y="228" width="670" height="676" key="search.everywhere.popup/0.23.1680.956@0.23.1680.956" timestamp="1586150135773" />
+  </component>
+</project>
