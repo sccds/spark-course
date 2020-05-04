@@ -19,10 +19,8 @@ public class ItemSet {
 
     public void setItems(Set<String> items) { this.items = items; }
 
-    public int setSupportCount() { return supportCount; }
+    public int getSupportCount() { return supportCount; }
 
     public void setSupportCount(int supportCount) { this.supportCount = supportCount; }
-
-
 
 }
