@@ -1,0 +1,8 @@
+{
+  "typeStr": "FeatureCollection",
+  "features": [
+    {"typeStr": "Feature", "id": 0, "name": "test1"},
+    {"typeStr": "Feature", "id": 1, "name": "test2"},
+    {"typeStr": "Feature", "id": 2}
+  ]
+}
